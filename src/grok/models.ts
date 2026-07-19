@@ -134,6 +134,17 @@ export const MODEL_CONFIG: Record<string, ModelInfo> = {
     supported_max_output_tokens: 131072,
     default_top_p: 0.95,
   },
+  "grok-4.5": {
+    grok_model: ["grok-4-5", "MODEL_MODE_GROK_4_5"],
+    rate_limit_model: "grok-4-5",
+    display_name: "Grok 4.5",
+    description: "Grok 4.5 chat model",
+    raw_model_path: "xai/grok-4-5",
+    default_temperature: 1.0,
+    default_max_output_tokens: 32768,
+    supported_max_output_tokens: 131072,
+    default_top_p: 0.95,
+  },
   "grok-4.20-beta": {
     grok_model: ["grok-420", "MODEL_MODE_GROK_420"],
     rate_limit_model: "grok-420",

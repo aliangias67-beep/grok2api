@@ -162,6 +162,7 @@ Pages:
 | `grok-4.1-fast` | 1 | Basic/Super | Yes | Yes | - |
 | `grok-4.1-expert` | 4 | Basic/Super | Yes | Yes | - |
 | `grok-4.1-thinking` | 4 | Basic/Super | Yes | Yes | - |
+| `grok-4.5` | 4 | Super | Yes | Yes | Latest 4.5 catalog alias |
 | `grok-4.20-beta` | 1 | Basic/Super | Yes | Yes | - |
 | `grok-imagine-1.0` | - | Basic/Super | - | Yes | - |
 | `grok-imagine-1.0-edit` | - | Basic/Super | - | Yes | - |
